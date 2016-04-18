@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Twiffer" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SearchSince" Type="System.DateTime" Scope="Application">
+      <Value Profile="(Default)">2014-02-15</Value>
+    </Setting>
+    <Setting Name="SearchUntil" Type="System.DateTime" Scope="Application">
+      <Value Profile="(Default)">2014-03-31</Value>
+    </Setting>
+    <Setting Name="SearchAccounts" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;euromaidan&lt;/string&gt;
+  &lt;string&gt;euromaidanPR&lt;/string&gt;
+  &lt;string&gt;RT_com&lt;/string&gt;
+  &lt;string&gt;MedvedevRussiaE&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="OutputFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">output.csv</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
